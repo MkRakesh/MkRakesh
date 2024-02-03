@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MkRakesh
-- 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 ML | AI | Bioinformatics | Maths | Physics Enthusiast
 - 📫 How to reach me ...mkk.rakesh@gmail.com
 
 <!---
