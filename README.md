@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MkRakesh
-- 👀 ML | AI | Bioinformatics | Maths | Physics Enthusiast
+- 👀 AI Engineer
 - 📫 How to reach me ...mkk.rakesh@gmail.com
 
 <!---
